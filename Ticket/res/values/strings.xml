@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,MissingTranslation">
+
+    <string name="app_name" translatable="false">Ticket</string>
+    <string name="action_settings">Settings</string>
+    <string name="vale_cultura">Vale Cultura</string>
+    <string name="consultar">Consultar</string>
+    <string name="saldo">Saldo</string>
+    <string name="data" tools:ignore="MissingTranslation,MissingTranslation">01/02/2013</string>
+    <string name="agendamentos" tools:ignore="MissingTranslation">Agendado</string>
+    <string name="error_durante_a_consulta" tools:ignore="MissingTranslation,MissingTranslation">Não foi possivel estabelecer conexão com o serviço, verifique sua conexão com a internet e tente novamente em alguns instantes.</string>
+    <string name="aviso">Aviso</string>
+    <string name="consultando" tools:ignore="MissingTranslation">Consultando</string>
+    <string name="aguarde_" tools:ignore="MissingTranslation">Aguarde...</string>
+    <string name="nenhum_cart_o_no_hist_rico_">Nenhum cartão no histórico.</string>
+    <string name="nenhum_item_encontrado_">Nenhum item encontrado.</string>
+    <!-- a152a3da7e8afa9 -->
+    <string name="hist_searchview">Digite aqui o número do cartão</string>
+    <string name="nenhum_cart_o_no_hist_rico">Nenhum cartão no histórico.</string>
+    <string name="cart_es_salvos">Cartões</string>
+    <string name="hist_rico">histórico</string>
+    <string name="resultado">Resultado</string>
+    <string name="lan_amentos">Lançamentos</string>
+    <string name="extrato">Extrato</string>
+    <string name="salvar_cart_o">Salvar Cartão</string>
+	<string name="remover_cart_o">Remover Cartão</string>
+	<string name="remover_cart_o">Remover Cartão</string>
+	
+	<string name="ta">Ticket Alimentação</string>
+	<string name="tk">Ticket Cultura</string>
+	<string name="tr">Ticket Restaurante</string>
+	<string name="transa_es">Transações</string>
+	<string name="ultimas">Ultimas</string>
+	<string name="ultimos_5">Ultimas 5</string>
+	<string name="ultimos_15">15</string>
+	<string name="ultimos_30">30</string>
+    
+</resources>

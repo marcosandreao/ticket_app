@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dotaapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_persiste"
+        android:title="@string/salvar_cart_o"
+        dotaapp:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/action_extrato"
+        android:title="@string/extrato"
+        dotaapp:showAsAction="always|withText"/>
+
+</menu>

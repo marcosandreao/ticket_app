@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dotaapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_menu_search"
+        android:title="@string/consultar"
+        dotaapp:actionViewClass="android.support.v7.widget.SearchView"
+        dotaapp:showAsAction="always"/>
+
+</menu>
