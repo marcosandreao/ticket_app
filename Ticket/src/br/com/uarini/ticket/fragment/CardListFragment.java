@@ -28,6 +28,10 @@ import br.com.uarini.ticket.db.TicketDatabaseHelper;
 import br.com.uarini.ticket.db.TicketProvider;
 import br.com.uarini.ticket.util.Util;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class CardListFragment extends ListFragment implements
 		LoaderManager.LoaderCallbacks<Cursor> {
 

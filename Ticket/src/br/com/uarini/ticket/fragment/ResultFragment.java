@@ -11,14 +11,18 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import br.com.uarini.ticket.R;
-import br.com.uarini.ticket.acitivity.TicketActivity;
-import br.com.uarini.ticket.acitivity.listener.IExtratoListener;
+import br.com.uarini.ticket.activity.TicketActivity;
+import br.com.uarini.ticket.activity.listener.IExtratoListener;
 import br.com.uarini.ticket.db.CartaoBO;
 import br.com.uarini.ticket.json.AbstractValue;
 import br.com.uarini.ticket.json.ResponseConsulta;
 import br.com.uarini.ticket.json.Scheduling;
 import br.com.uarini.ticket.util.Util;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class ResultFragment extends Fragment {
 
 	private TextView tvData;

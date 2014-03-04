@@ -2,6 +2,10 @@ package br.com.uarini.ticket.json;
 
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Release extends AbstractValue {
 

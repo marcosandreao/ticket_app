@@ -2,6 +2,10 @@ package br.com.uarini.ticket.json;
 
 import java.io.Serializable;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public abstract class AbstractValue implements Serializable {
 
 	/**

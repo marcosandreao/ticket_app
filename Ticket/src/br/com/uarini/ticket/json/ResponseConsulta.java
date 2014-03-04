@@ -4,6 +4,10 @@ import java.io.Serializable;
 
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ResponseConsulta implements Serializable {
 

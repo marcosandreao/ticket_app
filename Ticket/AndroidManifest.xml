@@ -21,7 +21,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.Ticket" >
         <activity
-            android:name="br.com.uarini.ticket.acitivity.TicketActivity"
+            android:name="br.com.uarini.ticket.activity.TicketActivity"
             android:alwaysRetainTaskState="true"
             android:label="@string/app_name"
             android:screenOrientation="sensorPortait"

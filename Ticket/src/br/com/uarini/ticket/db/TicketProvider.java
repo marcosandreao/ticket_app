@@ -10,6 +10,10 @@ import android.net.Uri;
 import android.provider.BaseColumns;
 import android.text.TextUtils;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class TicketProvider extends ContentProvider {
 
 	private static final String AUTHORITY = "br.com.uarini.tickety.TicketProvider";

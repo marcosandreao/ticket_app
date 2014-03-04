@@ -14,6 +14,10 @@ import android.support.v4.content.LocalBroadcastManager;
 import br.com.uarini.ticket.http.HttpHandler;
 import br.com.uarini.ticket.json.ResponseConsulta;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class TicketService extends IntentService{
 
 	public static final String ACTION_DADOS = "br.com.uarini.ticket.DADOS";

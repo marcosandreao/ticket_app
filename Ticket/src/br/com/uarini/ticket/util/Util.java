@@ -3,6 +3,10 @@ package br.com.uarini.ticket.util;
 import android.content.res.Resources;
 import br.com.uarini.ticket.R;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class Util {
 
 	public static final int QUANTIDADE_INICIO = 5;

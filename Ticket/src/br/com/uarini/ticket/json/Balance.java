@@ -3,7 +3,10 @@ package br.com.uarini.ticket.json;
 import java.io.Serializable;
 
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
-
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Balance implements Serializable{
 

@@ -4,6 +4,10 @@ import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class TicketApplication extends Application {
 	private static final String CARTAO = "cartao";
 

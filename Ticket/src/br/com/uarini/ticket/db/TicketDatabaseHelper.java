@@ -5,6 +5,10 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.provider.BaseColumns;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class TicketDatabaseHelper extends SQLiteOpenHelper {
 
 	private final static String DB_NAME = "ticket.sqlite";

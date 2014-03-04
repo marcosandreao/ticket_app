@@ -8,6 +8,10 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.provider.BaseColumns;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class CartaoBO {
 
 	public void persiste(ContentResolver cResolver, String numeroCartao,

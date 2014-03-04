@@ -11,6 +11,10 @@ import android.widget.TextView;
 import br.com.uarini.ticket.R;
 import br.com.uarini.ticket.json.Release;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class ExtratoAdapter extends ArrayAdapter<Release> {
 
 	private final LayoutInflater inflater;

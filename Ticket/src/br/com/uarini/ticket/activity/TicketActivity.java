@@ -1,4 +1,4 @@
-package br.com.uarini.ticket.acitivity;
+package br.com.uarini.ticket.activity;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -17,7 +17,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import br.com.uarini.ticket.R;
-import br.com.uarini.ticket.acitivity.listener.IExtratoListener;
+import br.com.uarini.ticket.activity.listener.IExtratoListener;
 import br.com.uarini.ticket.fragment.CardListFragment;
 import br.com.uarini.ticket.fragment.ExtratoFragment;
 import br.com.uarini.ticket.fragment.ResultFragment;
@@ -27,7 +27,7 @@ import br.com.uarini.ticket.service.ExtratoService;
 import br.com.uarini.ticket.service.TicketService;
 
 /**
- * @author marcos
+ * @author marcosandreao@gmail.com
  * 
  */
 public class TicketActivity extends ActionBarActivity implements

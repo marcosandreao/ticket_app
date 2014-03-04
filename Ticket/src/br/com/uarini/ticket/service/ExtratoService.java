@@ -5,6 +5,10 @@ import java.net.URLEncoder;
 import android.content.Intent;
 import android.util.Log;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class ExtratoService extends TicketService {
 
 	protected static final String URL = "http://www.ticket.com.br/portal-web/consult-card/release/json?txtOperacao=lancamentos&token=%s&card={query}&rows=%d";//&rows=50";

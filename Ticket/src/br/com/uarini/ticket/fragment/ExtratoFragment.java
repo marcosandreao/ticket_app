@@ -14,13 +14,17 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.TextView;
 import br.com.uarini.ticket.R;
-import br.com.uarini.ticket.acitivity.TicketActivity;
-import br.com.uarini.ticket.acitivity.listener.IExtratoListener;
+import br.com.uarini.ticket.activity.TicketActivity;
+import br.com.uarini.ticket.activity.listener.IExtratoListener;
 import br.com.uarini.ticket.adapter.ExtratoAdapter;
 import br.com.uarini.ticket.json.Release;
 import br.com.uarini.ticket.json.ResponseConsulta;
 import br.com.uarini.ticket.util.Util;
 
+/**
+ * @author marcosandreao@gmail.com
+ * 
+ */
 public class ExtratoFragment extends Fragment {
 
 	private ExtratoAdapter mAdapter;
